@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.bg {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  color: #ffffff;
+}
+.event-bg {
+  width: 75%;
+  background-color: #475569;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.event-con {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 2px;
+}
+.main-head {
+  margin-left: 55px;
+  margin-bottom: 5px;
+}
+.reg-para {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: bold;
+}
+.reg-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
